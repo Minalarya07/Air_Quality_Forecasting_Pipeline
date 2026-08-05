@@ -1,6 +1,6 @@
 # Air Quality Forecasting
 
-## Overview
+## Overview-
 
 This project was developed as part of Smart India Hackathon (SIH) 2025 to forecast ground-level air pollutant concentrations using machine learning techniques. The project integrates meteorological observations, Chemical Transport Model (CTM) forecasts, and site-specific environmental data to predict concentrations of Ozone (O₃) and Nitrogen Dioxide (NO₂).
 
